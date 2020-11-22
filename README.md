@@ -18,7 +18,7 @@ Data are from Genius and YouTube (not yet).
 ## Preview:
 | title  | album           | year       | lyrics    | image                                         | artist |
 |--------|-----------------|------------|-----------|-----------------------------------------------|--------|
-| Sarius | Wszystko co złe | 2018-08-09 | Lyrcis... | https://images.genius.com/536b3d5b443b47ae... | Sarius |  
+| Sarius | Wszystko co złe | 2018-08-09 | Lyrics... | Image url | Sarius |  
 
 ## Download:
 - `songs-sm.csv` - 1500 songs (3.72 MB) >> [Download](data/songs-sm.csv)
