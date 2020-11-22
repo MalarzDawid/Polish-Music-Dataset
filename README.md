@@ -23,7 +23,7 @@ Data are from Genius and YouTube (not yet).
 ## Download:
 - `songs-sm.csv` - 1500 songs (3.72 MB) >> [Download](data/songs-sm.csv)
 - `songs-md.csv` - 4000 songs (9.67 MB) >> [Download](data/songs-md.csv)
-- `songs-lg.csv` - 6511 songs (15.8 MB) >> [Download](data/songs-lg.csv))
+- `songs-lg.csv` - 6511 songs (15.8 MB) >> [Download](data/songs-lg.csv)
 
 # Changelog:
 - Nov 22, 2020:
